@@ -7,3 +7,4 @@ xhofe/alist:latest
 dreamacro/clash
 haishanh/yacd
 jxxghp/moviepilot-v2
+linuxserver/qbittorrent
